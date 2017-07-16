@@ -55,6 +55,8 @@ _Organisations : si vous pensez être en cohérence avec nous, n'hésitez pas à
 * Michèle Turbin, du 1 au 15 août, Architecture Verte / [Eutopies](http://eutopies.org/)
 * Xavier Coadic, du 1 au 15 août, Le Biome HacLab, Open BioFabrics, contributeurs Multibao.org et movilab.org.
 * Yohann Reverdy, Nantes, du 8 au 13 août, web dev 
+* Camille Ladreyt, du 7 au 15 août, Mycélium UTC
+* Anna Giolito, du 7 au 15 août, Mycélium UTC
 
 ## Organisation
 
